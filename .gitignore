@@ -1,0 +1,3 @@
+.env
+llm_prompt/models
+__pycache__
